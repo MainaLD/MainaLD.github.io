@@ -5,10 +5,11 @@ Présentation de l'application de traitement de nuages de points par segmentatio
 
 - Lien vers la présentation : <a href="https://drive.google.com/file/d/1HWaCDoZdQkt2sv8ooS2gg-9OwQ0G_HAK/view?usp=sharing">Traitement de Nuages de Points</a></br>
     <img src="images/Traitement_nuages_de_points_Application.png" width=30% height=30%>
+    ![Texte alternatif de l'image](images/Traitement_nuages_de_points_Application.png)
 </br>
 
 - Lien vers la vidéo de démonstration : [Vidéo Traitement de Nuages de Points](https://drive.google.com/file/d/1mqZdktI6f4tK4OHqnsfaPELKAVFVmtPQ/view?usp=sharing)</br>
-    <img src="images/Traitement_nuages_de_points_Visualisation.png" width=50% height=50%></p>
+    <img src="images/Traitement_nuages_de_points_Visualisation.png" width=50% height=50%>
 
 <h2>2) Cas Pratique : Vérificateur d’uniforme</h2>
 <p>Pour l'obtention de mon diplôme de développeuse en intelligence artificielle, j'avais pour objectif d'améliorer une application existante. </br> 
