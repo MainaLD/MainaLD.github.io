@@ -3,10 +3,9 @@
 <h2>1) Traitement de Nuages de Points</h2>
 Présentation de l'application de traitement de nuages de points par segmentation sémantique. Projet de recherche dans le cadre de mon alternance au L@bISEN, que j'ai également présenté comme projet chef-d'œuvre pour l'obtention de mon diplôme de développeuse en intelligence artificielle.</br>
 
-- Lien vers la présentation : <a href="https://drive.google.com/file/d/1HWaCDoZdQkt2sv8ooS2gg-9OwQ0G_HAK/view?usp=sharing">Traitement de Nuages de Points</a></br>
-
-  <img src="images/Traitement_nuages_de_points_Application.png" width=30% height=30%>
-    ![Texte alternatif de l'image](images/Traitement_nuages_de_points_Application.png)
+- Lien vers la présentation : <a href="https://drive.google.com/file/d/1HWaCDoZdQkt2sv8ooS2gg-9OwQ0G_HAK/view?usp=sharing">Traitement de Nuages de Points</a></br></br>
+  <img src="images/Traitement_nuages_de_points_Application.png" width=30% height=30%></br>
+  ![Texte alternatif de l'image](images/Traitement_nuages_de_points_Application.png)
 </br>
 
 - Lien vers la vidéo de démonstration : [Vidéo Traitement de Nuages de Points](https://drive.google.com/file/d/1mqZdktI6f4tK4OHqnsfaPELKAVFVmtPQ/view?usp=sharing)</br>
