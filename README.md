@@ -3,7 +3,7 @@
 ## 1) Traitement de Nuages de Points
 Présentation de l'application de traitement de nuages de points par segmentation sémantique. Projet de recherche dans le cadre de mon alternance au L@bISEN, que j'ai également présenté comme projet chef-d'œuvre pour l'obtention de mon diplôme de développeuse en intelligence artificielle.
 
-- Lien vers la présentation :[Traitement de Nuages de Points](https://drive.google.com/file/d/1HWaCDoZdQkt2sv8ooS2gg-9OwQ0G_HAK/view?usp=sharing">Traitement de Nuages de Points)
+- Lien vers la présentation :[Traitement de Nuages de Points](https://github.com/MainaLD/Cas_pratique_Verificateur_d_uniforme#cas-pratique--v%C3%A9rificateur-duniforme)
 <img src="images/Traitement_nuages_de_points_Application.png" width=30% height=30%>
 
 ![Texte alternatif de l'image](images/Traitement_nuages_de_points_Application.png)
