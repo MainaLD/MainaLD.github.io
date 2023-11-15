@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [1) Traitement de Nuages de Points](https://github.com/MainaLD/Traitement_nuages_de_points)
 Application de traitement de nuages de points par segmentation sémantique, réalisé dans le cadre de mon année d'alternance au L@bISEN.
 Elle est développée sur Tkinter et elle est basée sur l'architecture 2DPASS.
