@@ -16,7 +16,11 @@ Elle est développée sous l'interface Streamlit et utilisant l'algorithme YOLOv
 Application avec Streamlit et OpenCV, utilisant un CNN (VGG16 et les poids d'ImageNet) pour la détection des visages puis le port du masque.
 ![Image Detection Masks 2](images\CNN-Detection_masks_v2_Breif18.png)
 
-
+## [Bases de données : SQL / NoSQL](https://github.com/MainaLD/Creation_et_Gestion_de_BDD)
+Sélection de Projets (briefs) de conception avec Merise, de création et de gestion de bases de données SQL et NoSQL.
+- Merise et MySQL : Gestion des Stocks IKEO avec une BDD (Brief n°4)
+- Docker, MySQL et GRAFANA : Tableau de bord sur la Covid (Brief n°15)
+- MongoDB : Base de publications scientifiques (Brief n°17)
 
 ## [Projets : Htlm/Css/Flask](https://github.com/MainaLD/Html-Css-Flask)
 
